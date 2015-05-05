@@ -37,6 +37,10 @@ Character typefaces (字符字体族)
 
 
 [1] http://en.wikipedia.org/wiki/Typeface
+
 [2] http://zh.wikipedia.org/wiki/%E8%A1%AC%E7%BA%BF%E4%BD%93
+
 [3] http://zh.wikipedia.org/wiki/%E6%AF%8F%E8%8B%B1%E5%AF%B8%E7%82%B9%E6%95%B0
+
 [4] http://zh.wikipedia.org/wiki/Retina%E6%98%BE%E7%A4%BA%E5%B1%8F
+
