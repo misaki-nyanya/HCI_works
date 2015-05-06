@@ -42,6 +42,7 @@
 1  | [JK Design](http://www.jkdesign.com/)  | 全局（页脚除外）
 2  | [Who's your Santa](http://whosyoursanta.ca/)  | 全局
 3  | [The Strum Bellas](http://www.thestrumbellas.ca/)  | 模块标题、介绍文字
+4  | [Digitally Cultured](http://www.digitallycultured.it/)  | 导航、模块标签
 
 
 # Lato
@@ -70,3 +71,4 @@
 序号  |  网站  | 应用
 ------------- | ------------- | -------------
 1  | [Art艺术品交易](http://eu.art.com/)  | 模块标题
+2  | [John Sardine个人主页](http://johnsardine.com/)  | 导航及标题
