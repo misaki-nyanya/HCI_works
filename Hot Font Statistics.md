@@ -4,7 +4,7 @@
 
 # Helvetica
 
-烂大街Sans-Serif字体，Arial的前身，苹果电脑默认英文字体。和Arial一样常作为网站的第一字体或备用自体出现。
+烂大街Sans-Serif字体，Arial的前身，苹果设备默认英文字体。和Arial一样常作为网站的第一字体或备用自体出现。
 
 
 # Open Sans
