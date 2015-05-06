@@ -20,7 +20,26 @@
 2  | [火腿公司](http://sanchezromerocarvajal.com/)  | 正文
 
 # Futura
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [刺杀林肯](http://www.kennedyandoswald.com/)  | 网站标题
+
+# schoolbook-web
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [American Imagery Bank](http://www.americanimagerybank.com/)  | 正文
+
+# Geom Slab 703
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [Pastini Pastaria意大利餐厅](http://www.pastini.com/)  | 全局
 
 # Arvo
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [Patrick Wagesreiter个人主页](http://www.patrickwagesreiter.at/about.php)  | 全局
 
-# Roboto Slab
+# FF Serif
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [Ryan Clark Merrill个人主页](http://ryanmerrill.net/)  | 全局
