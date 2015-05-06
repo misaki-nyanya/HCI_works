@@ -25,12 +25,6 @@
 13 | [Nitrous在线IDE](https://pro.nitrous.io/)  | 正文
 
 
-# Bebas Neue
-序号  |  网站  | 应用
-------------- | ------------- | -------------
-1  | [Art艺术品交易](http://eu.art.com/)  | 模块标题
-
-
 # Roboto
 序号  |  网站  | 应用
 ------------- | ------------- | -------------
@@ -40,3 +34,17 @@
 4  | [Trading 212](http://www.trading212.com/)  | 全局
 5  | [Imagekind艺术品交易](http://imagekind.com/)  | 底端网站地图
 6  | [Acronis 备份解决方案](http://www.acronis.com/)  | 全局
+
+
+# Oswald
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [JK Design](http://www.jkdesign.com/)  | 全局（页脚除外）
+2  | [Who's your Santa](http://whosyoursanta.ca/)  | 全局
+3  | [The Strum Bellas](http://www.thestrumbellas.ca/)  | 模块标题、介绍文字
+
+
+# Bebas Neue
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [Art艺术品交易](http://eu.art.com/)  | 模块标题
