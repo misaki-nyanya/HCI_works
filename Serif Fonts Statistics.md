@@ -38,6 +38,7 @@
 序号  |  网站  | 应用
 ------------- | ------------- | -------------
 1  | [Patrick Wagesreiter个人主页](http://www.patrickwagesreiter.at/about.php)  | 全局
+2  | [NBA 全明星主页](http://nballstats.com/)  | 全局
 
 # FF Serif
 序号  |  网站  | 应用
