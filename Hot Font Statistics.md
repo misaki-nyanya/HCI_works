@@ -44,6 +44,19 @@
 3  | [The Strum Bellas](http://www.thestrumbellas.ca/)  | 模块标题、介绍文字
 
 
+# Lato
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [CouchSurfing沙发客](https://www.couchsurfing.com/)  | 首页全局
+2  | [TekRoc设计](http://tekroc.com/)  | 全局
+3  | [The Strum Bellas](http://www.thestrumbellas.ca/)  | 模块标题、介绍文字
+4  | [Quatrofolhas果园](http://quatrofolhas.pt/)  | 全局
+5  | [Jason Nickel个人主页](http://jasonnickel.de/)  | 全局
+6  | [Marclabrie摄影](http://www.marclabrie.com/)  | 全局
+7  | [Adrien-Heury设计](http://adrien-heury.net/)  | 正文
+8  | [Big lazy Robot工作室](http://biglazyrobot.com/)  | 全局（除页面标签及页脚）
+9  | [酒精知识问答](http://alkopedia.dareville.com/)  | 正文
+
 # Bebas Neue
 序号  |  网站  | 应用
 ------------- | ------------- | -------------
