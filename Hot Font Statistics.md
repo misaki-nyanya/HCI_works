@@ -57,6 +57,15 @@
 8  | [Big lazy Robot工作室](http://biglazyrobot.com/)  | 全局（除页面标签及页脚）
 9  | [酒精知识问答](http://alkopedia.dareville.com/)  | 正文
 
+# Droid Sans
+序号  |  网站  | 应用
+------------- | ------------- | -------------
+1  | [sedo域名](https://sedo.com/)  | 全局
+2  | [Black House咖啡](http://giftcard.blackhouse.uk.com/card/purchase)  | 正文
+3  | [Eye Bridge视觉](http://www.eyebridge.com.au/)  | 部分正文
+4  | [Ready2Run工作室](http://www.ready2run.ro/)  | 正文
+5  | [John Sardine个人主页](http://johnsardine.com/)  | 正文
+
 # Bebas Neue
 序号  |  网站  | 应用
 ------------- | ------------- | -------------
