@@ -1,4 +1,4 @@
-# 对 [blog.xwang1024.me/TechQ](http://blog.xwang1024.me/TechQ/)的交互评估
+# 对 [blog.xwang1024.me/TechQ](http://blog.xwang1024.me/TechQ/) （by xwang1024）的交互评估
 ## Due date:	2015-05-30 23:59:59
 请完成对所选实践项目的交互性能评估实验，具体要求包括： 
 1. 综合使用问卷、启发式评估、用户测试等评估方法；
